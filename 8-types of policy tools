@@ -1,0 +1,60 @@
+<!-- NOTE: PASTE ✓ IN THE APPROPRIATE CELLS. THEY HAVE BEEN REMOVED FROM THIS EXAMPLE. -->
+
+<table>
+<tbody>
+<tr bgcolor="#f6f6f6">
+<td width="60%" valign="bottom"><strong><!--Title--></strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>Not Included</strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>Moderate Focus</strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>Substantial Focus</strong></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Land use tools</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Tax policy</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Permitting</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- Moderate focus --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Rental development financing/subsidies</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Affordability requirements or incentives</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Building codes</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Housing authority tools</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Downpayment assistance or other tools to promote homeownership</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT INCLUDED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+</tbody>
+</table>
