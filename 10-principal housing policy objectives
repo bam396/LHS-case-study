@@ -1,0 +1,24 @@
+<!--- ONLY INCLUDE THE OBJECTIVES THAT ARE CHECKED. PLACEHOLDER TEXT IS INCLUDED TO FACILITATE COPY/PASTE  --->
+
+<table>
+<tbody>
+<!--- IF ADDITIONAL ROWS ARE NEEDED, COPY FROM HERE.... -->
+<tr>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+</tr>
+<!--- ... TO HERE. END COPY HERE --->
+<tr>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+</tr>
+<tr>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+</tr>
+<tr>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+<td width="50%" valign="bottom">&nbsp; ✓&nbsp; &nbsp; OBJECTIVE</td>
+</tr>
+</tbody>
+</table>
