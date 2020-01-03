@@ -1,0 +1,36 @@
+<!-- NOTE BEFORE YOU BEGIN: PASTE THIS ✓ IN THE APPROPRIATE CELL. IT IS NOT INCLUDED IN THIS EXAMPLE -->
+
+<table>
+<tbody>
+<tr bgcolor="#f6f6f6">
+<td width="60%" valign="bottom"><strong><!--TITLE--></strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>Not Covered</strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>Moderate Focus</strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>Substantial Focus</strong></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Create and preserve dedicated affordable housing units</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT COVERED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td> 
+</tr>
+<tr>
+<td width="60%" valign="bottom">Promote affordability by reducing barriers to new supply</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT COVERED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Help households access private-market homes</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT COVERED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+<tr>
+<td width="60%" valign="bottom">Protect against displacement and poor housing conditions</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NOT COVERED --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- MODERATE FOCUS --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUBSTANTIAL FOCUS --></td>
+</tr>
+</tbody>
+</table>
