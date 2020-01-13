@@ -3,55 +3,61 @@
 <table>
 <tbody>
 <tr bgcolor="#f6f6f6">
-<td width="60%" valign="bottom"><strong><!--Title--></strong></td>
+<td valign="bottom" width="60%"><strong><!--Title--></strong></td>
 <td style="text-align: center; vertical-align: middle;"><strong>No Role</strong></td>
 <td style="text-align: center; vertical-align: middle;"><strong>Supporting Role</strong></td>
 <td style="text-align: center; vertical-align: middle;"><strong>Leading Role</strong></td>
 </tr>
 <tr>
-<td width="60%" valign="bottom">Planning Department</td>
+<td valign="bottom" width="60%">Office of the Mayor</td>
 <td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
 </tr>
 <tr>
-<td width="60%" valign="bottom">Finance Department</td>
+<td valign="bottom" width="60%">Office of the City/County Manager</td>
 <td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
 </tr>
 <tr>
-<td width="60%" valign="bottom">Buildings Department</td>
-<td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
-<td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE  --></td>
-<td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
-</tr>
-<tr>
-<td width="60%" valign="bottom">Transportation Department</td>
+<td valign="bottom" width="60%">Housing Department</td>
 <td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
 </tr>
 <tr>
-<td width="60%" valign="bottom">Housing Authority</td>
+<td valign="bottom" width="60%">Planning Department</td>
 <td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
 </tr>
 <tr>
-<td width="60%" valign="bottom">Economic Development Agency</td>
+<td valign="bottom" width="60%">Development Agency</td>
 <td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
 </tr>
 <tr>
-<td width="60%" valign="bottom">City Hall/City Hall Appointees</td>
+<td valign="bottom" width="60%">Permitting/Inspections Department</td>
 <td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
 </tr>
-<tr style>
-<td width="60%" valign="bottom">City Council</td>
+<tr>
+<td valign="bottom" width="60%">Finance/Tax Department</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
+</tr>
+<tr>
+<td valign="bottom" width="60%">Public Housing Authority</td>
+<td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
+<td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
+</tr>
+<tr>
+<td valign="bottom" width="60%">City/County Council</td>
 <td style="text-align: center; vertical-align: middle;"><!-- NO ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- SUPPORTING ROLE --></td>
 <td style="text-align: center; vertical-align: middle;"><!-- LEADING ROLE --></td>
